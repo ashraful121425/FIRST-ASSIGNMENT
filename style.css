@@ -1,0 +1,15 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.box {
+    background-image: url(donation1.jpg);
+}
+
+.box {
+    text-align: center;
+}
+
+#button {
+    background-color: rgb(255, 129, 71);
