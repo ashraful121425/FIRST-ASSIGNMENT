@@ -3,13 +3,24 @@ body {
 
 }
 
-.box {
-    background-image: url(donation1.jpg);
+.box1 {
+    text-align: center;
 }
 
-.box {
-    text-align: center;
+section {
+    display: flex;
 }
 
 #button {
     background-color: rgb(255, 129, 71);
+}
+
+#section {
+    text-align: center;
+}
+
+#columns {
+    5px;
+}
+
+;
